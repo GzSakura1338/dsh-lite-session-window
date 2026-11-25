@@ -122,3 +122,5 @@ window.__ModuleLoader__.load({
     }
   },
 })
+
+// v0.2.1 — rev bump so browsers that cached a half-written module fetch a fresh URL.

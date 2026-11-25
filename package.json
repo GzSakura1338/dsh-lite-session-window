@@ -1,6 +1,6 @@
 {
   "name": "@local/dsh-lite-session-window",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "private": true,
   "type": "module",
   "description": "Opens a Session on its newest Turns and folds the distant past behind on-demand paging, so the web client stays light.",
