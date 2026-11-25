@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Lite session window",
+    "description": "Opens a Session on its newest turns and folds the distant past behind on-demand paging, keeping the web client light.",
+    "detail": "docs/DETAIL.md"
+  }
+}

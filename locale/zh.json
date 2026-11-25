@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "轻量会话窗口",
+    "description": "打开会话时只保留最近两轮历史，更早的内容折叠起来按需分页，让 Web 端更轻。",
+    "detail": "docs/DETAIL.md"
+  }
+}

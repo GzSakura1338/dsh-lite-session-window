@@ -1,0 +1,4 @@
+# Lite session window bundle patch: inserts its dsh.client row into the web roster.
+- insert:
+    - id: lite-session-window
+      name: '@local/dsh-lite-session-window'
